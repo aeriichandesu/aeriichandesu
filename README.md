@@ -1,3 +1,5 @@
-<img width="300" height="3000" alt="image" src="https://github.com/user-attachments/assets/d565d344-e92d-40ce-931f-3189d122ee45" />
+![](https://komarev.com/ghpvc/?username=your-github-username&label=aliens&color=lightgrey)
 
-guys i promise ill make an about me. be patient.....
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/7e5f41cf-d20f-429a-97f9-71db821f2a73" />
+
+> "Till. Thank you for being the `victim of my shallow emotions`.
